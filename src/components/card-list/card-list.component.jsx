@@ -4,7 +4,7 @@ class CardList extends Component {
 
     render() {
         const { monsters } = this.props;
-        return(
+        return (
             <div>
                 { monsters.map(monster => (
                     <h1 key = { monster.id }>
