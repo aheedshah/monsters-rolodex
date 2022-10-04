@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# About this Project
+This is a basic React project I did while learning it. It contains basic React code which lets you search for monsters 
+all of which are imported using a JSON.
+
+Clone it using `git clone` in your terminal and run it using the steps below:
+
+# Getting Started with this React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
